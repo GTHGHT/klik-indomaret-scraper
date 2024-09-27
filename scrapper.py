@@ -205,7 +205,6 @@ class SeleniumKlikIndomaretScrapper:
         else:
             return category_result
 
-
     def _category_query_builder(
             self,
             category_link: str,
@@ -266,5 +265,3 @@ class SeleniumKlikIndomaretScrapper:
             wait.until(ec.presence_of_element_located((By.CLASS_NAME, class_to_wait)))
         except:
             raise LookupError("There is no element specified")
-
-

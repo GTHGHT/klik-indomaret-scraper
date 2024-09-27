@@ -21,7 +21,7 @@ This Python project automates the process of scraping product data from KlikIndo
 Install the required packages via pip:
 
 ```bash
-pip install selenium beautifulsoup4 lxml
+pip install selenium beautifulsoup4
 ```
 
 ## Usage
