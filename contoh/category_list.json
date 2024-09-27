@@ -1,0 +1,678 @@
+[
+    {
+        "super_category": "Makanan",
+        "categories": [
+            {
+                "category_name": "Sarapan",
+                "link": "/category/sarapan",
+                "subcategories": [
+                    "Sereal",
+                    "Madu",
+                    "Selai & Olesan",
+                    "Makanan Diet",
+                    "Roti"
+                ]
+            },
+            {
+                "category_name": "Makanan Kaleng",
+                "link": "/category/makanan-kaleng",
+                "subcategories": [
+                    "Buah & Sayuran Kalengan",
+                    "Kornet",
+                    "Ikan Kalengan",
+                    "Seafood Kalengan"
+                ]
+            },
+            {
+                "category_name": "Bahan Masakan",
+                "link": "/category/bahan-makanan",
+                "subcategories": [
+                    "Makanan Pokok",
+                    "Minyak & Mentega",
+                    "Bumbu Masak"
+                ]
+            },
+            {
+                "category_name": "Cokelat & Permen",
+                "link": "/category/cokelat--permen",
+                "subcategories": [
+                    "Cokelat",
+                    "Permen",
+                    "Jelly & Permen Karet"
+                ]
+            },
+            {
+                "category_name": "Makanan Instan",
+                "link": "/category/makanan-instan",
+                "subcategories": [
+                    "Mie Instan",
+                    "Pasta & Spaghetti",
+                    "Sup Instan",
+                    "Bubur & Abon"
+                ]
+            },
+            {
+                "category_name": "Cemilan & Biskuit",
+                "link": "/category/cemilan--biskuit",
+                "subcategories": [
+                    "Biskuit",
+                    "Kacang Kacangan",
+                    "Kue Kering",
+                    "Cemilan Lokal",
+                    "Wafer",
+                    "Keripik"
+                ]
+            },
+            {
+                "category_name": "Healthy Food",
+                "link": "/category/healthy-food",
+                "subcategories": [
+                    "Rendah Kalori / Less Sugar",
+                    "Rendah Lemak",
+                    "Rendah Sodium / Garam",
+                    "Free Gluten",
+                    "Vegetarian",
+                    "Produk Organik",
+                    "Serat Tinggi / High Fibre",
+                    "Tinggi Kalsium",
+                    "Tinggi Protein",
+                    "Tinggi Vitamin C"
+                ]
+            },
+            {
+                "category_name": "Korean Food",
+                "link": "/category/korean-food",
+                "subcategories": [
+                    "Spices & Seasoning",
+                    "Instant Food",
+                    "Beverages"
+                ]
+            },
+            {
+                "category_name": "Oriental Food",
+                "link": "/category/oriental-food",
+                "subcategories": [
+                    "Spices & Seasoning",
+                    "Instant Food"
+                ]
+            },
+            {
+                "category_name": "Western Food",
+                "link": "/category/western-food",
+                "subcategories": [
+                    "Keju & Margarin",
+                    "Spices & Seasoning",
+                    "Makanan Kaleng",
+                    "Cooking Oil"
+                ]
+            },
+            {
+                "category_name": "Bahan Kue",
+                "link": "/category/bahan-kue",
+                "subcategories": [
+                    "Gula & Tepung",
+                    "Mentega & Margarin",
+                    "Tepung Instan",
+                    "Bahan Puding & Agar Agar",
+                    "Cokelat Masak & Cokelat Bubuk",
+                    "Susu Cair & Kental Manis",
+                    "Keju",
+                    "Olesan",
+                    "Pengemulsi",
+                    "Perisa",
+                    "Topping & Hiasan Kue",
+                    "Lainnya"
+                ]
+            }
+        ]
+    },
+    {
+        "super_category": "Minuman",
+        "categories": [
+            {
+                "category_name": "Kental Manis",
+                "link": "https://www.klikindomaret.com/category/kental-manis"
+            },
+            {
+                "category_name": "Susu",
+                "link": "/category/susu",
+                "subcategories": [
+                    "Susu Cair",
+                    "Susu Bubuk",
+                    "Susu Evaporasi",
+                    "Susu Kesehatan dan Diet",
+                    "Susu Ibu Hamil & Menyusui",
+                    "Susu Specialty"
+                ]
+            },
+            {
+                "category_name": "Minuman Ringan",
+                "link": "/category/minuman-ringan",
+                "subcategories": [
+                    "Isotonic",
+                    "Remedy Drink",
+                    "Soft Drink",
+                    "Flavoured Water",
+                    "Tonic Drink"
+                ]
+            },
+            {
+                "category_name": "Jus",
+                "link": "https://www.klikindomaret.com/category/jus"
+            },
+            {
+                "category_name": "Kopi",
+                "link": "/category/kopi",
+                "subcategories": [
+                    "Kopi Bubuk/ Biji",
+                    "Kopi Instant"
+                ]
+            },
+            {
+                "category_name": "Teh",
+                "link": "/category/teh",
+                "subcategories": [
+                    "Teh Instan",
+                    "Teh Bubuk",
+                    "Teh Celup"
+                ]
+            },
+            {
+                "category_name": "Air Mineral",
+                "link": "/category/air-mineral",
+                "subcategories": [
+                    "Mineral Water"
+                ]
+            },
+            {
+                "category_name": "Sirup",
+                "link": "https://www.klikindomaret.com/category/sirup"
+            },
+            {
+                "category_name": "Coklat Bubuk dan Kremer",
+                "link": "https://www.klikindomaret.com/category/coklat-bubuk-kremer"
+            },
+            {
+                "category_name": "Minuman Tradisional",
+                "link": "https://www.klikindomaret.com/category/minuman-tradisional"
+            }
+        ]
+    },
+    {
+        "super_category": "Produk Segar",
+        "categories": [
+            {
+                "category_name": "Makanan Dingin & Beku",
+                "link": "/category/makanan-beku",
+                "subcategories": [
+                    "Nugget",
+                    "Sosis",
+                    "Bakso, Kentang/Shoestring & Siomay"
+                ]
+            },
+            {
+                "category_name": "Buah & Dessert",
+                "link": "/category/buah-dan-dessert",
+                "subcategories": [
+                    "Buah Segar",
+                    "Buah Olahan",
+                    "Dessert"
+                ]
+            },
+            {
+                "category_name": "Olahan Susu & Telur",
+                "link": "/category/olahan-susu-telur",
+                "subcategories": [
+                    "Yogurt",
+                    "Keju Segar",
+                    "Telur",
+                    "Susu Segar"
+                ]
+            },
+            {
+                "category_name": "Es Krim",
+                "link": "/category/es-krim",
+                "subcategories": [
+                    "Es Krim Stick & Cup",
+                    "Es Krim Family Size",
+                    "Ice Cake"
+                ]
+            },
+            {
+                "category_name": "Aneka Roti",
+                "link": "/category/aneka-roti",
+                "subcategories": [
+                    "Roti Tawar",
+                    "Roti Manis",
+                    "Donut",
+                    "Kue Basah",
+                    "Kue Kering",
+                    "Kue Tart"
+                ]
+            },
+            {
+                "category_name": "Sayur",
+                "link": "https://www.klikindomaret.com/category/sayur"
+            },
+            {
+                "category_name": "Makanan Siap Saji",
+                "link": "https://www.klikindomaret.com/category/makanan-siap-saji"
+            },
+            {
+                "category_name": "Daging, Ayam & Seafood",
+                "link": "/category/dagingayam--seafood",
+                "subcategories": [
+                    "Ayam",
+                    "Daging",
+                    "Seafood"
+                ]
+            }
+        ]
+    },
+    {
+        "super_category": "Ibu & Anak",
+        "categories": [
+            {
+                "category_name": "Mainan & Hobi",
+                "link": "/category/mainan-dan-hobi",
+                "subcategories": [
+                    "Baby Toys",
+                    "Bricks & Block",
+                    "Bubbles",
+                    "Character Toys",
+                    "Die Cast",
+                    "Dough & Slime",
+                    "Mainan & Hobi Lainnya",
+                    "Play Set",
+                    "Surprise Toys"
+                ]
+            },
+            {
+                "category_name": "Makanan & Susu Bayi",
+                "link": "/category/makanan-bayi",
+                "subcategories": [
+                    "Sereal Bayi",
+                    "Susu Bayi",
+                    "Biskuit Bayi",
+                    "Susu Balita"
+                ]
+            },
+            {
+                "category_name": "Perlengkapan Bayi",
+                "link": "/category/perlengkapan-bayi",
+                "subcategories": [
+                    "Alat Makan & Minum",
+                    "Baby Cologne, Oil, Lotion & Cream",
+                    "Baby Gift Pack, Travel Pack",
+                    "Baby Hair & Body Wash",
+                    "Baby Training Tools",
+                    "Bedak Bayi",
+                    "Health & Cleansing",
+                    "Perlengkapan Tidur Bayi",
+                    "Tissue Basah Bayi"
+                ]
+            },
+            {
+                "category_name": "Perlengkapan Anak",
+                "link": "/category/perlengkapan-anak",
+                "subcategories": [
+                    "Kids Hand Sanitizer",
+                    "Kids Cologne, Oil, Lotion & Cream",
+                    "Kids Hair & Body Wash",
+                    "Pasta & Sikat Gigi Anak"
+                ]
+            },
+            {
+                "category_name": "Popok Bayi",
+                "link": "/category/popok-bayi",
+                "subcategories": [
+                    "New Born",
+                    "Size S",
+                    "Size M",
+                    "Size L",
+                    "Size XL",
+                    "Size XXL"
+                ]
+            },
+            {
+                "category_name": "Perlengkapan Menyusui",
+                "link": "https://www.klikindomaret.com/category/perlengkapan-menyusui"
+            }
+        ]
+    },
+    {
+        "super_category": "Home & Living",
+        "categories": [
+            {
+                "category_name": "Jas Hujan",
+                "link": "https://www.klikindomaret.com/category/jas-hujan"
+            },
+            {
+                "category_name": "Tisu",
+                "link": "/category/produk-tisu",
+                "subcategories": [
+                    "Tisu Toilet",
+                    "Tisu Wajah",
+                    "Tisu Makan",
+                    "Tisu Basah"
+                ]
+            },
+            {
+                "category_name": "Deterjen dan Pembersih",
+                "link": "/category/deterjen-dan-pembersih",
+                "subcategories": [
+                    "Deterjen",
+                    "Pelicin & Pewangi Pakaian",
+                    "Pemutih Pakaian",
+                    "Sabun Cuci Piring",
+                    "Pembersih Lantai & Toilet",
+                    "Semir Sepatu"
+                ]
+            },
+            {
+                "category_name": "Pembasmi Kuman & Pewangi",
+                "link": "/category/pembasmi-kuman-dan-pewangi",
+                "subcategories": [
+                    "Pembasmi Serangga",
+                    "Lotion Anti Serangga",
+                    "Kamper & Kapur Barus",
+                    "Pembasmi Hama",
+                    "Pengharum Ruangan"
+                ]
+            },
+            {
+                "category_name": "Perlengkapan Rumah Tangga dan Hobi",
+                "link": "/category/household-non-electric--hobby-product",
+                "subcategories": [
+                    "Peralatan Dapur",
+                    "Perlengkapan Kamar Mandi",
+                    "Perlengkapan Dan Alat Kebersihan Rumah Tangga",
+                    "Perlengkapan Pesta",
+                    "Baterai"
+                ]
+            },
+            {
+                "category_name": "Bed Cover & Sprei",
+                "link": "https://www.klikindomaret.com/category/bed-cover-dan-sprei"
+            },
+            {
+                "category_name": "Elpiji",
+                "link": "https://www.klikindomaret.com/category/gas-elpiji"
+            },
+            {
+                "category_name": "Handuk",
+                "link": "https://www.klikindomaret.com/category/handuk"
+            },
+            {
+                "category_name": "Mekanik & Elektrik",
+                "link": "/category/mekanik-elektrik",
+                "subcategories": [
+                    "Perkakas Bengkel dan Listrik",
+                    "Lampu",
+                    "Perawatan Kendaraan",
+                    "Kompor"
+                ]
+            },
+            {
+                "category_name": "Alat Tulis & Perlengkapan Kantor",
+                "link": "/category/stationery--special-items",
+                "subcategories": [
+                    "Buku & Kertas",
+                    "Alat Tulis",
+                    "Peralatan Kantor"
+                ]
+            },
+            {
+                "category_name": "Florist",
+                "link": "https://www.klikindomaret.com/category/florist"
+            },
+            {
+                "category_name": "Kartu Perdana",
+                "link": "https://www.klikindomaret.com/category/kartu-perdana"
+            },
+            {
+                "category_name": "Perlengkapan & Makanan Hewan",
+                "link": "/category/perlengkapan--makanan-hewan",
+                "subcategories": [
+                    "Perlengkapan Hewan",
+                    "Makanan Hewan"
+                ]
+            },
+            {
+                "category_name": "Peralatan Olahraga",
+                "link": "https://www.klikindomaret.com/category/peralatan-olahraga"
+            },
+            {
+                "category_name": "Voucher, Kartu Elektronik & Gift Card",
+                "link": "/category/kartu-giftcard",
+                "subcategories": [
+                    "Voucher Fisik"
+                ]
+            }
+        ]
+    },
+    {
+        "super_category": "Kecantikan & Personal Care",
+        "categories": [
+            {
+                "category_name": "Kosmetik",
+                "link": "/category/cosmetic",
+                "subcategories": [
+                    "Wajah",
+                    "Mata",
+                    "Bibir",
+                    "Kuku",
+                    "Alat Kecantikan"
+                ]
+            },
+            {
+                "category_name": "Perawatan Diri",
+                "link": "/category/perawatan-diri",
+                "subcategories": [
+                    "Popok Dewasa",
+                    "Perawatan Mulut",
+                    "Kesehatan Kewanitaan",
+                    "Keamanan Diri",
+                    "Alat Uji Kehamilan"
+                ]
+            },
+            {
+                "category_name": "Perawatan Badan",
+                "link": "/category/body-care",
+                "subcategories": [
+                    "Badan",
+                    "Deodorant Roll On",
+                    "Tangan",
+                    "Kaki"
+                ]
+            },
+            {
+                "category_name": "Perawatan Rambut",
+                "link": "/category/hair-care",
+                "subcategories": [
+                    "Shampoo",
+                    "Kondisioner dan Masker",
+                    "Vitamin Rambut",
+                    "Penataan Rambut",
+                    "Pewarna Rambut",
+                    "Alat Penataan Rambut"
+                ]
+            },
+            {
+                "category_name": "Perawatan Pria",
+                "link": "/category/mens-care",
+                "subcategories": [
+                    "Peralatan Cukur",
+                    "Wajah",
+                    "Badan",
+                    "Perawatan Rambut"
+                ]
+            }
+        ]
+    },
+    {
+        "super_category": "Kesehatan",
+        "categories": [
+            {
+                "category_name": "Masker",
+                "link": "/category/masker",
+                "subcategories": [
+                    "Masker Sekali Pakai",
+                    "Masker Kain",
+                    "Faceshield"
+                ]
+            },
+            {
+                "category_name": "Antiseptik & Sanitasi",
+                "link": "/category/antiseptik--sanitasi",
+                "subcategories": [
+                    "Disinfectant",
+                    "Hand Sanitizer",
+                    "Hand Wash",
+                    "Antiseptik",
+                    "Tissue"
+                ]
+            },
+            {
+                "category_name": "Suplemen Makanan Dan Vitamin",
+                "link": "/category/medicine--food-supplement",
+                "subcategories": [
+                    "Vitamin Anak",
+                    "Vitamin Dewasa"
+                ]
+            },
+            {
+                "category_name": "Obat Luar",
+                "link": "/category/obat--luar",
+                "subcategories": [
+                    "Koyo",
+                    "Krim & Balsem",
+                    "Plester & Obat Luka",
+                    "Mata",
+                    "Minyak Gosok / Minyak Angin"
+                ]
+            },
+            {
+                "category_name": "Obat Minum",
+                "link": "/category/internal-medicine",
+                "subcategories": [
+                    "Batuk, Flu, & Sakit Tenggorokan Dewasa",
+                    "Batuk, Flu & Sakit Tenggorokan Anak",
+                    "Demam",
+                    "Kepala",
+                    "Sakit Perut",
+                    "Obat Traditional / Jamu Herbal"
+                ]
+            },
+            {
+                "category_name": "Alat Kesehatan",
+                "link": "https://www.klikindomaret.com/category/alat-kesehatan"
+            }
+        ]
+    },
+    {
+        "super_category": "Fashion",
+        "categories": [
+            {
+                "category_name": "Fashion Wanita",
+                "link": "/category/womens-fashion-1",
+                "subcategories": [
+                    "Pakaian Wanita",
+                    "Pakaian Muslim Wanita",
+                    "Pakaian Tidur Wanita",
+                    "Pakaian Dalam Wanita",
+                    "Tas Wanita",
+                    "Aksesoris Wanita",
+                    "Sepatu Wanita"
+                ]
+            },
+            {
+                "category_name": "Fashion Pria",
+                "link": "/category/mens-fashion-1",
+                "subcategories": [
+                    "Kaos Kaki Pria",
+                    "Pakaian Pria",
+                    "Pakaian Muslim Pria",
+                    "Tas Pria",
+                    "Aksesoris Pria",
+                    "Pakaian Dalam Pria",
+                    "Sepatu Pria"
+                ]
+            },
+            {
+                "category_name": "Fashion Ibu & Anak ",
+                "link": "/category/kids-fashion",
+                "subcategories": [
+                    "Baju Ibu Hamil & Menyusui",
+                    "Pakaian Bayi",
+                    "Pakaian Anak Laki-Laki",
+                    "Pakaian Anak Perempuan",
+                    "Sepatu & Kaos Kaki Anak",
+                    "Tas & Aksesoris Anak"
+                ]
+            },
+            {
+                "category_name": "Tas Travel",
+                "link": "https://www.klikindomaret.com/category/tas-travel"
+            }
+        ]
+    },
+    {
+        "super_category": "Gadget & Elektronik",
+        "categories": [
+            {
+                "category_name": "Handphone & Tablet",
+                "link": "/category/gadget--smartphone-1",
+                "subcategories": [
+                    "Handphone",
+                    "Aksesoris Handphone & Tablet"
+                ]
+            },
+            {
+                "category_name": "Laptop & Komputer",
+                "link": "/category/computer-2",
+                "subcategories": [
+                    "Printer, Scanner & Fax",
+                    "Laptop",
+                    "Aksesoris Komputer dan Laptop"
+                ]
+            },
+            {
+                "category_name": "Gadget & Aksesoris",
+                "link": "https://www.klikindomaret.com/category/gadget-accessories-1"
+            },
+            {
+                "category_name": "Elektronik",
+                "link": "/category/elektronik-rumah-tangga",
+                "subcategories": [
+                    "Audio",
+                    "Elektronik Rumah Tangga"
+                ]
+            }
+        ]
+    },
+    {
+        "super_category": "Produk Khusus Dewasa",
+        "categories": [
+            {
+                "category_name": "Rokok",
+                "link": "/category/rokok",
+                "subcategories": [
+                    "Rokok Filter",
+                    "Rokok Kretek",
+                    "Cerutu",
+                    "Rokok Elektrik"
+                ]
+            },
+            {
+                "category_name": "Alat Kontrasepsi",
+                "link": "/category/alat-kontrasepsi",
+                "subcategories": [
+                    "Pelindung",
+                    "Pelumas",
+                    "Alat Bantu"
+                ]
+            }
+        ]
+    }
+]
